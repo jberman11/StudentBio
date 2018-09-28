@@ -1,0 +1,36 @@
+#body {
+    background-color: black;
+}
+
+.header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(184, 124, 184);
+    text-align: center
+    
+}
+p {
+    background-color: grey;
+    opacity: 50%;
+}
+
+.content {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    height: 600px;
+    text-align: center;
+
+}
+.border1 {
+   border-style: double;
+   border-color: aquamarine;
+   border-width: 5px; 
+}
+.border2 {
+    padding:  20px;
+    margin: 5;
+    border-style: solid;
+    border-width: 3px;
+    border-color: white;
+    
+
+}
